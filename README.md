@@ -4,8 +4,12 @@
 
 #### Maven地址
 
-```java
-
+```xml
+<dependency>
+    <groupId>com.github.hcyhzy</groupId>
+    <artifactId>ratelimiter</artifactId>
+    <version>1.0-RELEASE</version>
+</dependency>
 ```
 
 #### Required
