@@ -18,7 +18,6 @@ import java.time.Duration;
  * Redis构造类
  *
  * @author hc
- * @date 2018-04-21 13:42
  **/
 public class RedisUtil {
 

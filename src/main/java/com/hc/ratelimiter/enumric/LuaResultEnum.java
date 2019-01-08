@@ -4,7 +4,6 @@ package com.hc.ratelimiter.enumric;
  * Lua 返回结果
  *
  * @author hc
- * @date 2018-04-28 17:59
  **/
 public enum LuaResultEnum {
 

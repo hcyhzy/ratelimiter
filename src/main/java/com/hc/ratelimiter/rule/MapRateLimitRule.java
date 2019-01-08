@@ -9,7 +9,6 @@ import java.util.concurrent.ConcurrentHashMap;
  * HASHMAP存储规则
  *
  * @author hc
- * @date 2018-04-28 12:06
  **/
 public class MapRateLimitRule implements RateLimitRule {
 

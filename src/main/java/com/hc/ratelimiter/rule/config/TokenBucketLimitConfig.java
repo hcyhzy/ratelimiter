@@ -7,7 +7,6 @@ import com.hc.ratelimiter.exception.RateLimiterException;
  * 令牌桶算法
  *
  * @author hc
- * @date 2018-04-28 11:19
  **/
 public class TokenBucketLimitConfig extends LimitConfig {
 

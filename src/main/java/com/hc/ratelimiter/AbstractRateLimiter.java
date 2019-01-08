@@ -10,7 +10,6 @@ import com.hc.ratelimiter.rule.config.LimitConfig;
  * 限流抽象类 : 调用不同的限流算法
  *
  * @author hc
- * @date 2018-04-28 14:52
  **/
 public abstract class AbstractRateLimiter implements RateLimiterInterface {
 

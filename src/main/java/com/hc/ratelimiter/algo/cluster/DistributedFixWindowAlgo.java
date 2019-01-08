@@ -21,7 +21,6 @@ import java.util.List;
  * 但是后端服务则可能承受1s内200的请求量
  *
  * @author hc
- * @date 2018-04-28 20:11
  **/
 public class DistributedFixWindowAlgo implements RateLimiter {
 

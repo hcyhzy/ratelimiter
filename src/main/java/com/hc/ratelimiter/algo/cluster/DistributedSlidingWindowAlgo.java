@@ -20,7 +20,6 @@ import java.util.List;
  * 解决固定窗口模式下的尖刺问题
  *
  * @author hc
- * @date 2018-04-28 20:11
  **/
 public class DistributedSlidingWindowAlgo implements RateLimiter {
 

@@ -20,7 +20,6 @@ import java.util.List;
  * 保证请求进入的匀速性
  *
  * @author hc
- * @date 2018-04-28 12:21
  **/
 public class DistributedTokenBucketAlgo implements RateLimiter {
 

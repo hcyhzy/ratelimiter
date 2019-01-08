@@ -4,7 +4,6 @@ package com.hc.ratelimiter.env.redis;
  * Redis配置
  *
  * @author hc
- * @date 2018-04-28 15:35
  **/
 public class RedisConfig {
 

@@ -7,7 +7,6 @@ import com.hc.ratelimiter.rule.config.LimitConfig;
  * 限流规则对象
  *
  * @author hc
- * @date 2018-04-28 11:27
  **/
 public interface RateLimitRule {
 

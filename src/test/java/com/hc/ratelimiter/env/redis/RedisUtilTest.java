@@ -8,7 +8,6 @@ import java.io.Serializable;
 
 /**
  * @author hc
- * @date 2018-04-21 13:43
  **/
 public class RedisUtilTest {
 

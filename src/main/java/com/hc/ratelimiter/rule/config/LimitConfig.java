@@ -5,7 +5,6 @@ import com.hc.ratelimiter.exception.RateLimiterException;
 
 /**
  * @author hc
- * @date 2018-04-28 11:19
  **/
 public class LimitConfig {
 

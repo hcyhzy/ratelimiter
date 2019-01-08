@@ -9,7 +9,6 @@ import org.testng.annotations.Test;
 
 /**
  * @author hc
- * @date 2018-05-03 10:16
  **/
 public class DistributedSlidingWindowRateLimiterTest {
 

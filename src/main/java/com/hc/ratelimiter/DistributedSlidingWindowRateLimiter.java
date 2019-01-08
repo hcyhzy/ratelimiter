@@ -16,7 +16,6 @@ import java.io.Serializable;
  * 分布式 : 计数器(滑动窗口)
  *
  * @author hc
- * @date 2018-04-28 14:52
  **/
 public class DistributedSlidingWindowRateLimiter extends AbstractRateLimiter {
 

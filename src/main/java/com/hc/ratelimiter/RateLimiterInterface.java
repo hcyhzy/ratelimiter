@@ -7,7 +7,6 @@ import com.hc.ratelimiter.exception.RateLimiterException;
  * 限流功能接口
  *
  * @author hc
- * @date 2018-04-28 14:51
  **/
 public interface RateLimiterInterface {
 

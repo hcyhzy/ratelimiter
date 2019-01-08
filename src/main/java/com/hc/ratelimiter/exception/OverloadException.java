@@ -3,7 +3,6 @@ package com.hc.ratelimiter.exception;
 /**
  * 限流过载异常
  * @author hc
- * @date 2018-04-28 14:51
  **/
 public class OverloadException extends RuntimeException {
 

@@ -16,7 +16,6 @@ import java.io.Serializable;
  * 令牌桶实现类
  *
  * @author hc
- * @date 2018-04-28 14:52
  **/
 public class DistributedTokenBucketRateLimiter extends AbstractRateLimiter {
 

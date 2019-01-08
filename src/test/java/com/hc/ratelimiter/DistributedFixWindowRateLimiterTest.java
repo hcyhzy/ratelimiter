@@ -9,7 +9,6 @@ import org.testng.annotations.Test;
 
 /**
  * @author hc
- * @date 2018-05-10 20:25
  **/
 public class DistributedFixWindowRateLimiterTest {
 
