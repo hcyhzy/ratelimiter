@@ -55,6 +55,11 @@ public class MapRateLimitRule implements RateLimitRule {
     }
 
     @Override
+    public void clearLimitConfig() throws RateLimiterException {
+        limitRules.clear();
+    }
+
+    @Override
     public LimitConfig getLimitConfig(String limitKey) throws RateLimiterException {
         try {
             if (null == limitKey || "".equals(limitKey)) {

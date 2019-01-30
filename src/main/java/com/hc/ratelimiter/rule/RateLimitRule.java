@@ -36,6 +36,13 @@ public interface RateLimitRule {
     void removeLimitConfig(String limitKey) throws RateLimiterException;
 
     /**
+     * 清空规则信息
+     *
+     * @throws RateLimiterException 异常
+     */
+    void clearLimitConfig() throws RateLimiterException;
+
+    /**
      * 根据限流KEY获取对应限流规则配置
      * @param limitKey 限流唯一KEY
      * @return 规则配置
